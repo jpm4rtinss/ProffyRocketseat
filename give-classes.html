@@ -77,7 +77,9 @@
                    </div>
             </fieldset>
             <fieldset id="schedule-items">
-                <legend>Horários disponiveis <button id="add-time">+ Novo horário</button></legend>
+                <legend>Horários disponiveis
+                  <button type="button" id="add-time">+ Novo horário</button>
+                </legend>
                     <div class="schedule-item">
                       <div class="select-block">
                         <label for="weekday">Dia da semana</label>
@@ -98,7 +100,7 @@
                         <input name="time_from" type="time" id="time_from[]" required>
                      </div>
                      <div class="input-block">
-                        <label for="time_to">Das</label>
+                        <label for="time_to">Até</label>
                         <input name="time_to" type="time" id="time_to[]" required>
                      </div>
                 </div>
@@ -118,6 +120,7 @@
         </main>
 
     </div>
+    <script src="scripts/addField.js"></script>
     
 </body>
 </html>
