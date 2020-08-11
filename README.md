@@ -9,12 +9,6 @@ Proffy</h1>
 ### Home - mobile
 <img src="https://github.com/jpm4rtinss/ProffyRocketseat/blob/master/images/readmeindexmob.PNG" alt="home web"  height="425" align="center">
 
-### Search - web
-<img src="https://github.com/jpm4rtinss/ProffyRocketseat/blob/master/images/Capturar.PNG" alt="home web"  height="425" align="center">
-
-### Search - mobile
-<img src="https://github.com/jpm4rtinss/ProffyRocketseat/blob/master/images/search.PNG" alt="home web"  height="425" align="center">
-
 ### Teach - web
 
 <img src="https://github.com/jpm4rtinss/ProffyRocketseat/blob/master/images/readmepic.PNG" alt="home web"  height="425" align="center">
@@ -24,6 +18,14 @@ Proffy</h1>
 
 ### Teach - mobile
 <img src="https://github.com/jpm4rtinss/ProffyRocketseat/blob/master/images/readmeindex1.PNG" alt="home web"  height="425" align="center">
+
+### Search - web
+<img src="https://github.com/jpm4rtinss/ProffyRocketseat/blob/master/images/Capturar.PNG" alt="home web"  height="425" align="center">
+
+### Search - mobile
+<img src="https://github.com/jpm4rtinss/ProffyRocketseat/blob/master/images/search.PNG" alt="home web"  height="425" align="center">
+
+
 
 
 
