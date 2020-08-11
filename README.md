@@ -20,10 +20,11 @@ Proffy</h1>
 <img src="https://github.com/jpm4rtinss/ProffyRocketseat/blob/master/images/readmepic.PNG" alt="home web"  height="425" align="center">
 <img src="https://github.com/jpm4rtinss/ProffyRocketseat/blob/master/images/readmepic1.PNG" alt="home web"  height="425" align="center">
 <img src="https://github.com/jpm4rtinss/ProffyRocketseat/blob/master/images/readmepic2.PNG" alt="home web"  height="425" align="center">
-<img src="https://github.com/jpm4rtinss/ProffyRocketseat/blob/master/images/readmeindex1.PNG" alt="home web"  height="425" align="center">
+
+
 ### Teach - mobile
-<img src="https://github.com/jpm4rtinss/ProffyRocketseat/blob/master/images/search.PNG" alt="home web"  height="425" align="center">
- 
+<img src="https://github.com/jpm4rtinss/ProffyRocketseat/blob/master/images/readmeindex1.PNG" alt="home web"  height="425" align="center">
+
 
 
 ## Linguagens e bibliotecas
