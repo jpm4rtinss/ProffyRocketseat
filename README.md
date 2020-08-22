@@ -1,7 +1,7 @@
 <h1 align="center">
 Proffy</h1>
  
-<p align="center">Plataforma de agendamento de aulas particulares desenvolvido para a Next Level Week promovida pela Rocketseat. Layout responsivo feito utilizando o conceito de mobile first</p> 
+<p align="center">Private lessons scheduling platform developed for the Next Level Week promoted by Rocketseat. Responsive layout made using the concept of mobile first.</p> 
 
 ### Home - web
 <img src="https://github.com/jpm4rtinss/ProffyRocketseat/blob/master/images/readmeindex.PNG" alt="home web"  height="425" align="center">
