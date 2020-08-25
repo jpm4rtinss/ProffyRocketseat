@@ -34,7 +34,7 @@ Proffy</h1>
 -  **HTML**
 
 
-## Language
+## Texts language
 
 - **Portuguese - BR**
 
