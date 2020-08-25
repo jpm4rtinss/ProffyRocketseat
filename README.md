@@ -5,9 +5,9 @@ Proffy</h1>
 
 ### Mobile screens
 
-<img src="https://github.com/jpm4rtinss/ProffyRocketseat/blob/master/images/readmeindexmob.PNG" alt="home web"  align="center">
-<img src="https://github.com/jpm4rtinss/ProffyRocketseat/blob/master/images/readmeindex1.PNG" alt="home web"  align="center">
-<img src="https://github.com/jpm4rtinss/ProffyRocketseat/blob/master/images/search.PNG" alt="home web"  align="center">
+<img src="https://github.com/jpm4rtinss/ProffyRocketseat/blob/master/images/readmeindexmob.PNG" alt="home web">
+<img src="https://github.com/jpm4rtinss/ProffyRocketseat/blob/master/images/readmeindex1.PNG" alt="home web" >
+<img src="https://github.com/jpm4rtinss/ProffyRocketseat/blob/master/images/search.PNG" alt="home web" >
 
 ### Home - web
 <img src="https://github.com/jpm4rtinss/ProffyRocketseat/blob/master/images/readmeindex.PNG" alt="home web"  height="425" align="center">
