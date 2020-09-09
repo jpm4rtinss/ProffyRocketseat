@@ -27,7 +27,7 @@ Proffy</h1>
 <img src="https://github.com/jpm4rtinss/ProffyRocketseat/blob/master/images/search.PNG" alt="home web"  height="425" align="center">
 
 
-## Tech Stack
+## 🛠 Tech Stack
 
 - **JS**  
 - **CSS** (Grid layout e flexbox)  
