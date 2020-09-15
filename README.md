@@ -5,7 +5,7 @@ Proffy</h1>
 
 
 ### Web
-<img src="https://github.com/jpm4rtinss/ProffyRocketseat/blob/master/images/20200810_233759.gif" alt="home web"  height="425" align="center">
+<img src="https://github.com/jpm4rtinss/ProffyRocketseat/blob/master/images/readme-web.gif" alt="home web"  height="425" align="center">
 ### Home - mobile
 <img src="https://github.com/jpm4rtinss/ProffyRocketseat/blob/master/images/readmeindexmob.PNG" alt="home web"  height="425" align="center">
 
