@@ -3,6 +3,12 @@ Proffy</h1>
  
 <p align="center">Private lessons scheduling platform developed for the Next Level Week promoted by Rocketseat. Responsive layout made using the concept of mobile first.</p> 
 
+## 🛠 Tech Stack
+
+- **JS**  
+- **CSS** (Grid layout e flexbox)  
+-  **HTML**
+
 
 ### Web
 
@@ -11,14 +17,6 @@ Proffy</h1>
 ### Mobile
 
 <img src="https://github.com/jpm4rtinss/ProffyRocketseat/blob/master/images/readme-mobile.gif" alt="home web"  height="425" align="center">
-
-
-## 🛠 Tech Stack
-
-- **JS**  
-- **CSS** (Grid layout e flexbox)  
--  **HTML**
-
 
 ## Texts language
 
